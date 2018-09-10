@@ -1,7 +1,7 @@
 # Express-Courier
 Courier service app (Android)
 
-This is a courier service based app which consists of easy-to-use UI with basic themes. The app supports api level 19 and above. Currently the app is in progress.
+This is a courier service based app which consists of easy-to-use UI with basic themes. The app supports api level 18 and above. Currently the app is in progress.
 Services include:
 1) Live tracking
 2) Rate card
