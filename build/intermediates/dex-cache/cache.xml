@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/abdulbari/Downloads/XpressCourier4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="52a8f451932206a74fc07a1525eff29eec0f38e5">
+        <dex dex="/Users/abdulbari/Downloads/XpressCourier4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f8db01f3cd994624e3bdf9479338ad2e04da5a3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abdulbari/.android/build-cache/1101e0095faeb78c569455cd58a3b5b9846a7a78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/abdulbari/Downloads/XpressCourier4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b02b3008e5f63f66525d73dff0ed3799bb2b07f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abdulbari/Downloads/XpressCourier4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/abdulbari/Downloads/XpressCourier4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9971e2f39d473b1362f581db16c9686fe2024349/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abdulbari/.android/build-cache/8db329c4fe1911e1054551ffc8a7401254f6a59d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/abdulbari/Downloads/XpressCourier4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e4fafe5af301fa43179ab67b86813456444d1ac/classes.dex" />
+    </item>
+
+</items>

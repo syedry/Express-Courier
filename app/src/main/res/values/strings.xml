@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Xpress Courier 4</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="error_valid_email_password">Wrong Username or Password</string>
+    <string name="error_message_email">Enter Valid username</string>
+    <string name="error_message_password">Enter Valid Password</string>
+    <string name="admin">ADMIN</string>
+    <string name="customer">Customer</string>
+    <string name="or">OR</string>
+    <string name="logo">logo</string>
+    <string name="not_a_member_yet_signup">Not a member yet? Signup</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="complogo">logo</string>
+    <string name="female">FEMALE</string>
+    <string name="male">MALE</string>
+    <string name="name">Name</string>
+    <string name="passworduser">Password</string>
+    <string name="phone">Phone</string>
+    <string name="signup">SIGNUP</string>
+    <string name="usernameuser">Username</string>
+</resources>
